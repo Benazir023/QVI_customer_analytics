@@ -1,5 +1,5 @@
 # QVI_customer_analytics
-Background
+*Background*
 I recently joined Quantium as a data analyst in the retail analytics team and report to Zilinka, the VP of Data Science. 
 Our clients from the grocery data team have sent us 2 datasets i.e a year’s worth of potato chips transactions and customer data for a region. Named QVI_transaction_data.csv & QVI_purchase_behaviour.csv respectively. My task entails exploring and preparing the data & deriving insights to form our recommendations for our client, Julia i.e the chips category manager. The insights will inform the supermarket’s strategic plan for the chips category in the next half year.
 
@@ -7,7 +7,7 @@ Extra features/variables were taken into consideration when analyzing customer s
 -	Size of the packages
 -	Brand names
 
-Some of the metrics important for this analysis were:
+Some of the *metrics important for this analysis were:
 -	Are customers spending more per chips packet over time?
 -	Are there more customers than chips purchases? Implying that customers are multi-pack buyers
 with an aim to understand customer segments and their chip purchasing behaviour
