@@ -23,6 +23,6 @@ iii)	Mainstream - YOUNG SINGLES/COUPLES are also likely to pay more per packet o
 iv)	Mainstream - YOUNG SINGLES/COUPLES are 23% more likely to buy Doritos Corn Chips compared to the rest of the population.
 
 Therefrom, the following *recommendations* and next steps were proposed:
-i.	The category manager may strategically place the Doritos Corn Chips near shelves that are most frequented by Mainstream - YOUNG SINGLES/COUPLES, especially the smaller sizes packaged in 150g & 170g.
-ii.	Quantium can help the Category Manager with recommendations of where these shelves are and further help them with measuring the impact of the changed placement.
+i) Our client may strategically place the Tyrells Chips near shelves that are most frequented by Mainstream - YOUNG SINGLES/COUPLES. It’s only packaged in 165g. They could add a few Kettle Chips packaged in 175g & 150g
+ii) Quantium can help the Chips Category Manager with recommendations of where these shelves are and further help them with measuring the impact of the changed placement.
 
