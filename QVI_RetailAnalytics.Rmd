@@ -397,7 +397,8 @@ names(combined_data) <- tolower(names(combined_data))
 3. Rename columns so they're easier to remember
 
 ```{r}
-names(combined_data)[1] <- "loyalty_card_number"    #from lylty_card_nbr
+names(combined_data)[1] <- "date"   
+names(combined_data)[3] <- "loyalty_card_number"    #from lylty_card_nbr
 names(combined_data)[5] <- "product_number"      #from prod_nbr
 names(combined_data)[6] <- "product_name"      #from prod_name
 names(combined_data)[7] <- "product_quantity"      #from prod_qty
@@ -467,10 +468,14 @@ b) Number of customers by lifestage and segment
 ```{r}
 segment_tranxns <- combined_data %>%
   group_by(lifestage, segment)%>%
-  summarise(customers = n()) %>%
+  summarise(customers = uniqueN(loyalty_card_number) %>%
   arrange(-customers)
 ```
+or
 
+```{r}
+segment_tranxns <- combined_data[, .(customers = uniqueN(loyalty_card_number)), .(lifestage, segment)][order(-customers)]
+```
 Visualize using
 
 ```{r}
