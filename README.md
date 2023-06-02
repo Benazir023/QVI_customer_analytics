@@ -14,7 +14,7 @@ with an aim to understand customer segments and their chip purchasing behaviour
 
 Some visualizations that helped in answering the questions above include
 ![Untitled](https://github.com/Benazir023/QVI_customer_analytics/assets/123881327/db70e7fd-9f68-45b1-9cd2-671b0391e34a)
-![Untitled](https://github.com/Benazir023/QVI_customer_analytics/assets/123881327/4b684965-aa72-4cbd-9b80-2fb79e838336)
+![proportion of sales2](https://github.com/Benazir023/QVI_customer_analytics/assets/123881327/e78cdd20-f31d-43b7-ab2e-f037b1a597e6)
 
 After various analyses such as EDA, trend, statistical the target segment was identified as Mainstream YOUNG SINGLES/COUPLES. Some interesting *findings* include:
 i)	Larger proportions of sales are from the Budget - OLDER FAMILIES, Mainstream - YOUNG SINGLES/COUPLES, and Mainstream - RETIREES customers. 
