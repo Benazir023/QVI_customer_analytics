@@ -454,7 +454,7 @@ Alternatively, plot using
 ```{r}
 p <- ggplot(data = total_sales_lifestage) +                
   geom_mosaic(aes(weight = total_sales, x = product(segment, lifestage), fill = segment)) +
-  labs(x = "Lifestage", y = "Premium customer flag", title = "Proportion of sales") +
+  labs(x = "Lifestage", y = "segment", title = "Proportion of sales") +
   theme(axis.text.x = element_text(angle = 80, vjust = 0.5))
  
 p + geom_text(data = ggplot_build(p)$data[[1]], 
